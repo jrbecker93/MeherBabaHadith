@@ -1,0 +1,5 @@
+let this be a repository for applying a veracity index to things Meher Baba (born Merwan Sheriar Irani in Pune, India in 1894) did.
+
+Veracity index should be applied to each item as a number, one to five; one being something without evidence, and five being something with the highest quality evidence.
+
+An example of highest quality evidene would be a video of Meher Baba, including an analysis of the video file metadata and/or binary indicating that it is authentic.
